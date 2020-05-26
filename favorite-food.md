@@ -1,6 +1,6 @@
 # My Favorite Food
 
-![Sushi Picture](https://en.wikipedia.org/wiki/Sushi#/media/File:Sushi_platter.jpg)
+![sushi picture](https://www.nippon.com/en/ncommon/contents/japan-data/169591/169591.jpg)
 
 Of all the foods in existence, my very favorite is **Sushi**
 
